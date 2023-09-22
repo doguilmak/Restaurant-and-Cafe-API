@@ -130,6 +130,8 @@ MySQL Databases
 	<img src="assets/SQL restaurant_menu.png" alt="" height="500" width="1000">
 </div>
 
+<br>
+
     http://127.0.0.1:8000/auth/users/
 
 <div align="center">
@@ -139,6 +141,8 @@ MySQL Databases
 <div align="center">
 	<img src="assets/user-list.png" alt="" height="500" width="1000">
 </div>
+
+<br>
         
     http://127.0.0.1:8000/auth/token/login/
 
@@ -148,51 +152,63 @@ MySQL Databases
 
 <div align="center">
 	<img src="assets/auth-token-login2.png" alt="" height="500" width="1000">
-</div>    
+</div>
+
+<br>
     
     http://127.0.0.1:8000/api/menu/
 
 <div align="center">
 	<img src="assets/menu.png" alt="" height="500" width="1000">
-</div> 
+</div>
+
+<br>
     
     http://127.0.0.1:8000/api/menu/1
 
 <div align="center">
 	<img src="assets/menu-1.png" alt="" height="500" width="1000">
-</div> 
+</div>
+
+<br>
     
     http://127.0.0.1:8000/api/booking/tables/
 
 <div align="center">
 	<img src="assets/booking-tables.png" alt="" height="500" width="1000">
-</div> 
+</div>
+
+<br>
     
     http://127.0.0.1:8000/api/booking/tables/6
 
 <div align="center">
 	<img src="assets/booking-tables-6.png" alt="" height="500" width="1000">
-</div> 
+</div>
+
+<br>
 
 PUT Request
 
 <div align="center">
 	<img src="assets/PUT-request.png" alt="" height="500" width="1000">
-</div> 
+</div>
+
+<br>
 
 POST Request
 
 <div align="center">
 	<img src="assets/POST-request.png" alt="" height="500" width="1000">
-</div> 
+</div>
+
+<br>
 
 DELETE Request
 
 <div align="center">
 	<img src="assets/DELETE-request.png" alt="" height="500" width="1000">
 </div> 
-
-<br>
 
 <br>
 
