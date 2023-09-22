@@ -10,7 +10,7 @@ Welcome to the **Restaurant & Café API Project**, a comprehensive restaurant ma
 
 ## Project Overview
 
-Running a restaurant involves various complex tasks, from managing the menu and inventory to handling customer reservations and orders. The **Little Lemon Django Project** offers a solution that simplifies these processes by providing a user-friendly web interface and a set of RESTful APIs.
+Running a restaurant involves various complex tasks, from managing the menu and inventory to handling customer reservations and orders. The **Restaurant & Café API Project** offers a solution that simplifies these processes by providing a user-friendly web interface and a set of RESTful APIs.
 
 <br>
 
