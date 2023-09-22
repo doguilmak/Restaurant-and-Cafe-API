@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="assets/MetaRestaurantAPI-Cover.png" alt="" height="1280" width="720">
+	<img src="assets/MetaRestaurantAPI-Cover.png" alt="" height="1280" width="500">
 </div>
 
 Welcome to the **Little Lemon Django Project**, a comprehensive restaurant management system built using the Django web framework. This project aims to streamline the operations of a restaurant, making it easier for restaurant owners and staff to manage menus, bookings, and customer information efficiently.
