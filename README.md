@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="assets/MetaRestaurantAPI-Cover.png" alt="" width="1280" height="600">
+	<img src="assets/MetaRestaurantAPI-Cover.png" alt="" width="1280" height="560">
 </div>
 
 <br>
