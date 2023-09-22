@@ -2,11 +2,17 @@
 	<img src="assets/MetaRestaurantAPI-Cover.png" alt="" width="1280" height="720">
 </div>
 
+<br>
+
 Welcome to the **Little Lemon Django Project**, a comprehensive restaurant management system built using the Django web framework. This project aims to streamline the operations of a restaurant, making it easier for restaurant owners and staff to manage menus, bookings, and customer information efficiently.
+
+<br>
 
 ## Project Overview
 
 Running a restaurant involves various complex tasks, from managing the menu and inventory to handling customer reservations and orders. The **Little Lemon Django Project** offers a solution that simplifies these processes by providing a user-friendly web interface and a set of RESTful APIs.
+
+<br>
 
 ## Key Features
 
@@ -70,6 +76,8 @@ or
 
 	exit 
 
+<br>
+
 ## Installation
 
 1. Clone the repository to your local machine.
@@ -100,6 +108,7 @@ or
     
 	    python manage.py runserver 
     
+<br>
 
 ## Usage
 
@@ -107,6 +116,7 @@ or
 -   Explore the RESTful APIs at `http://localhost:8000/api/` to manage menu items and bookings.
 -   Use tools like Insomnia or Postman to interact with the APIs.
 
+<br>
 
 ## Testing URLs
 
@@ -184,9 +194,13 @@ DELETE Request
 
 <br>
 
+<br>
+
 ## Contributing
 
 Feel free to contribute to this project by submitting issues or pull requests.
+
+<br>
 
 ## Contact Me
 
