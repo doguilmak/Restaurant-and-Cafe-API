@@ -4,7 +4,7 @@
 
 <br>
 
-Welcome to the **Little Lemon Django Project**, a comprehensive restaurant management system built using the Django web framework. This project aims to streamline the operations of a restaurant, making it easier for restaurant owners and staff to manage menus, bookings, and customer information efficiently.
+Welcome to the **Restaurant & Café API Project**, a comprehensive restaurant management system built using the Django web framework. This project aims to streamline the operations of a restaurant, making it easier for restaurant owners and staff to manage menus, bookings, and customer information efficiently.
 
 <br>
 
