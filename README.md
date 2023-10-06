@@ -2,6 +2,8 @@
 	<img src="assets/MetaRestaurantAPI-Cover.png" alt="" width="1280" height="560">
 </div>
 
+<br>
+
 <small>Picture Source: <a href="https://github.com/doguilmak">Doğu İlmak</a></small>
 
 <br>
