@@ -2,6 +2,8 @@
 	<img src="assets/MetaRestaurantAPI-Cover.png" alt="" width="1280" height="560">
 </div>
 
+<small>Picture Source: <a href="https://github.com/doguilmak">Doğu İlmak</a></small>
+
 <br>
 
 Welcome to the **Restaurant & Café API Project**, a comprehensive restaurant management system built using the Django web framework. This project aims to streamline the operations of a restaurant, making it easier for restaurant owners and staff to manage menus, bookings, and customer information efficiently.
